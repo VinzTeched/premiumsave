@@ -1,0 +1,53 @@
+/* Google font */
+
+
+/* Icon Moon Font */
+@font-face {
+    font-family: 'icomoon';
+    src: url('../fonts/icomoon764a.eot?hbgc2i');
+    src: url('../fonts/icomoon764a.eot?hbgc2i#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon764a.ttf?hbgc2i') format('truetype'),
+    url('../fonts/icomoon764a.woff?hbgc2i') format('woff'),
+    url('../fonts/icomoon764a.svg?hbgc2i#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon', serif !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+}
+
+.icon-service-arrow:before {
+    content: "\e900";
+}
+
+.icon-slider-arrow-bottom:before {
+    content: "\e901";
+}
+
+.icon-slider-arrow-left:before {
+    content: "\e902";
+}
+
+.icon-slider-arrow-right:before {
+    content: "\e903";
+}
+
+.icon-slider-arrow-top:before {
+    content: "\e904";
+}
+
+.icon-team-arrow-left:before {
+    content: "\e905";
+}
+
+.icon-team-arrow-right:before {
+    content: "\e906";
+}

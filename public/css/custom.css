@@ -1,0 +1,80 @@
+.sidebar-bg{
+	background:#3c5e75 !important;	
+}
+
+.navbar-olored{
+	background:#344049 !important;	
+}
+
+.btnaccount{
+	position: relative;
+	text-align: center;
+}
+
+.btnaccount .btn{
+	min-width: 170px;
+    font-family: 'Signika',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin: 0 12px;
+    padding: 10px 0;
+    color: #fdfdfd;
+}
+
+.btn-main{
+	background: linear-gradient(175deg, #00607b 0%, #003049 70%) !important;
+	color: #fff !important;
+}
+
+.background-main{
+	background: linear-gradient(175deg, #00607b 0%, #003049 70%) !important;
+	color: #fff !important;
+}
+
+.btn-main:hover{
+	opacity: .8;
+}
+
+.btn-mainer{
+	background: linear-gradient(175deg, #da32a4 0%, #b81082 70%) !important;
+	color: #fff !important;
+}
+
+.btn-mainer:hover{
+	opacity: .8; 
+}
+
+.btn-main:focus, .btn-main.active{
+	background: linear-gradient(175deg, #da32a4 0%, #b81082 70%) !important;
+}
+
+.activate-acct{
+	position: relative;
+	text-align: center;
+}
+.activate-acct .btn{
+	min-width: 170px;
+    font-family: 'Signika',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin: 10px 12px;
+    padding: 10px 40px;
+    color: #fdfdfd;
+}
+
+.main-color{
+	color: #da32a4 !important;
+}
+
+.nav-tabs{
+	border-bottom: none !important;
+	margin-top: 2em;
+}
+
+@media screen and (max-width: 768px){
+	.invisible-md{
+		visibility: hidden !important;
+	}
+}
